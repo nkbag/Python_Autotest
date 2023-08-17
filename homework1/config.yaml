@@ -1,0 +1,5 @@
+url_auth: https://test-stand.gb.ru/login
+username: ivan22
+password: dcbc90c23c
+token: 80054830f978e026338a5214d9e6c1fa
+url_create: https://test-stand.gb.ru/api/posts
